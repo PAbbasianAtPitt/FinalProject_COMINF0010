@@ -1,7 +1,7 @@
 Group 1
 Peyman Abbasian pea13@pitt.edu
 Diana M Randall dmr123@pitt.edu SlothFan on github
-
+Alex Freiwald alf200@pitt.edu
 Databases used:
 Public Art in Pittsburgh Dataset:
 https://data.wprdc.org/dataset/city-of-pittsburgh-public-art/resource/00d74e83-8a23-486e-841b-286e1332a151
@@ -9,7 +9,8 @@ This dataset holds information about all of the different pieces of public art i
 Population Dataset:
 https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/82f29015-6905-4b1c-8300-afe9bb2231b3
 This dataset describes the population of each neighborhood and a margin of error as well. For our project we will be using the neighborhood and estimated population metrics.
-
+Number of parking meters:
+https://data.wprdc.org/dataset/parking-meters-pittsburgh-parking-authority
 
 
 Abstract:
